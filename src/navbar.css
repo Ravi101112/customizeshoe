@@ -1,0 +1,31 @@
+.navbar{
+    color:black;
+    margin-left:20%;
+    margin-top: 1.2%;
+
+}
+li {
+    display: inline;
+    margin-left:5%
+   
+  
+  }
+  
+.logo{
+    height:40px;
+    width:5%;
+   margin-left: 10%;
+   margin-top: 0.6%;
+  }
+.navcontainer{
+    display:flex;
+    height:12px;
+
+}
+a {
+  color: black;
+}
+text{
+  margin-top:2%;
+}
+

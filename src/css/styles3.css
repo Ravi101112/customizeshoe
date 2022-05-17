@@ -1,0 +1,84 @@
+h1.contact{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    margin-left:2%;
+
+}
+p.contact{
+    margin: 0px;
+    padding: 0px;
+    margin-left:1%;
+    margin-bottom:30px;
+ 
+
+}
+p.contact1{
+    margin: 0px;
+    padding: 0px;
+    margin-left:46%;
+    margin-top: 3%;
+
+ 
+
+}
+h2.contact{
+    margin-top:20px;
+    margin: 20px;
+    padding: 0px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+  .head{
+    margin-top:10% ;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:aliceblue;
+    margin-top:5;
+    width:20%;
+    height:20%;
+    margin-left:40%;
+  }
+  
+   
+  .ic{
+    height:100%;
+    width:150%;
+   
+
+
+
+}
+a.ic1{
+  
+  width: 10%;
+  height:20%;
+  display: flex;
+
+  margin-left:10%;
+  margin-right:10%;
+
+
+}
+.iconcontainer1{
+
+  display: flex;
+  height: 40%;
+  width:100%;
+align-content: center;
+   
+}
+.iconcontainer2{
+
+  display: flex;
+  height: 40%;
+  width:20%;
+  margin-left:40%;
+align-content: center;
+   
+}
+  

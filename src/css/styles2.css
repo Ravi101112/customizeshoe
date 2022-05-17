@@ -1,0 +1,58 @@
+h1.team{
+    padding: 50px 0;   
+    font-size: 20px;
+    text-align:center;
+  
+}
+.teamcontainer{
+    display: flex;
+   
+    padding-right:20%;
+
+   
+}
+.maincontainer{
+    background-color:aliceblue;
+    margin-top:3%;
+}
+.ic{
+    height:5%;
+    width:15%;
+    margin-left: 10%;
+
+
+}
+
+.iconcontainer{
+   display: flex;
+  align-items: center;
+
+  justify-content: center;
+  margin-right:10%;
+}
+
+.members{
+    align-content:center;
+    margin-left:2%;
+    margin-right:2%;
+   
+ background-color:white;
+
+}
+.teamim{
+    height: 200px;
+    width:200px;
+}
+.teamim2{
+    height: 300px;
+    width:300px;   
+}
+h2.team{
+    text-align: center;
+    margin-left: 5%;
+}
+p.team{
+
+    text-align: center;
+    padding: 0%;
+}
